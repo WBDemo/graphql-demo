@@ -3,5 +3,5 @@
  * @license: MIT
  * @copyright: Meili-inc.
  */
- require('babel/register');
- require('./server.js');
+require('babel-register');
+require('./server.js');
